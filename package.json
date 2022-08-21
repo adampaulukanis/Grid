@@ -1,0 +1,23 @@
+{
+    "name": "grid",
+    "version": "1.0.0",
+    "description": "A simple JS Grid class",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "test": "node testGrid.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/adampaulukanis/Grid.git"
+    },
+    "keywords": [
+        "grid"
+    ],
+    "author": "Adam Paulukanis",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/adampaulukanis/Grid/issues"
+    },
+    "homepage": "https://github.com/adampaulukanis/Grid#readme"
+}
